@@ -1,1 +1,0 @@
-print('Anda di halaman utama')
