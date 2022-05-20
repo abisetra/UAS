@@ -1,0 +1,1 @@
+print('Anda berada di halaman logout')
